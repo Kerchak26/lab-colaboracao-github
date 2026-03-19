@@ -1,3 +1,4 @@
 # Projeto Colaborativo
 
-Este projeto tem o objetivooo de testar colaboração no GitHub.
+Este projeto tem o objetivo de testar colaboração no GitHub.
+
